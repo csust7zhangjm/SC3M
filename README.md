@@ -1,3 +1,4 @@
 # SC3M for Visual Tracking
+### The raw data and models:
+can be obtained [here](https://pan.baidu.com/s/1a5f0k4til0YdagvZ2FFxlw?pwd=ux9d). 
 
-The paper has been submitted. Once accepted, the relevant code and data of the paper will be made public.
